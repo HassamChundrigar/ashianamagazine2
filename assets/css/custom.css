@@ -1,0 +1,8 @@
+.kt-menu__link-text {
+  font-size: 20px !important;
+}
+@media only screen and (max-width: 1024px) {
+  body {
+background-position-y: 60px !important;
+  }
+}

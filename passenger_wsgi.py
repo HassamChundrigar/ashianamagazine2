@@ -1,1 +1,0 @@
-from ApniKitab.wsgi import application
